@@ -5,8 +5,6 @@
 - <img src="https://github.com/danyi211/danyi211/assets/81069106/31cf8d9c-aa7d-4be6-b4a4-fdeb3124fa06" width="16" height="16"> I work on [CMS](https://cms.cern/) experiment @ CERN, and [LDMX](https://confluence.slac.stanford.edu/display/MME/Light+Dark+Matter+Experiment) experiment @ SLAC
 - 😄 Pronouns: she/her/hers
 
-![danyi211](https://komarev.com/ghpvc/?username=danyi211)
-
 <!--
 **danyi211/danyi211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +23,8 @@ Here are some ideas to get you started:
 
 
 ### Github Stats
+![danyi211](https://komarev.com/ghpvc/?username=danyi211)
+
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danyi211&count_private=true&show_icons=true"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danyi211\&layout=compact)
